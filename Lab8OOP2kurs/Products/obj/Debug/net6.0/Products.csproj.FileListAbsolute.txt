@@ -1,0 +1,15 @@
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Products\bin\Debug\net6.0\Products.exe
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Products\bin\Debug\net6.0\Products.deps.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Products\bin\Debug\net6.0\Products.runtimeconfig.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Products\bin\Debug\net6.0\Products.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Products\bin\Debug\net6.0\Products.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Products\obj\Debug\net6.0\Products.csproj.AssemblyReference.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Products\obj\Debug\net6.0\Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Products\obj\Debug\net6.0\Products.AssemblyInfoInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Products\obj\Debug\net6.0\Products.AssemblyInfo.cs
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Products\obj\Debug\net6.0\Products.csproj.CoreCompileInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Products\obj\Debug\net6.0\Products.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Products\obj\Debug\net6.0\refint\Products.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Products\obj\Debug\net6.0\Products.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Products\obj\Debug\net6.0\Products.genruntimeconfig.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Products\obj\Debug\net6.0\ref\Products.dll

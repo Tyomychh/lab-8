@@ -1,0 +1,11 @@
+Laptop, Electronics,1000
+Ogurec, Eda,7
+Futbolka, Clothing,20
+Kapusta, Eda,5
+Smartphone, Electronics,800
+Jeans, Clothing,50
+Headphones, Electronics,150
+Kofta, Clothing,80
+PC, Electronics,5000
+Maika, Clothing,80
+Hleb, Eda,10

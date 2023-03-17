@@ -1,0 +1,15 @@
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Delegati\bin\Debug\net6.0\Delegati.exe
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Delegati\bin\Debug\net6.0\Delegati.deps.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Delegati\bin\Debug\net6.0\Delegati.runtimeconfig.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Delegati\bin\Debug\net6.0\Delegati.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Delegati\bin\Debug\net6.0\Delegati.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Delegati\obj\Debug\net6.0\Delegati.csproj.AssemblyReference.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Delegati\obj\Debug\net6.0\Delegati.GeneratedMSBuildEditorConfig.editorconfig
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Delegati\obj\Debug\net6.0\Delegati.AssemblyInfoInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Delegati\obj\Debug\net6.0\Delegati.AssemblyInfo.cs
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Delegati\obj\Debug\net6.0\Delegati.csproj.CoreCompileInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Delegati\obj\Debug\net6.0\Delegati.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Delegati\obj\Debug\net6.0\refint\Delegati.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Delegati\obj\Debug\net6.0\Delegati.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Delegati\obj\Debug\net6.0\Delegati.genruntimeconfig.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab8\Lab8OOP2kurs\Delegati\obj\Debug\net6.0\ref\Delegati.dll

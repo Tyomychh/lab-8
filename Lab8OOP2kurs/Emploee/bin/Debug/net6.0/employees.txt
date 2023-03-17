@@ -1,0 +1,6 @@
+Tyomich Smith,5,2000
+Nastyuha Brown,2,1500
+Bob Tyomson,8,3000
+Tommy Hilfiger,3,1800
+Andrew Rodriguez,4,1900
+Sarah Konor,6,2200
